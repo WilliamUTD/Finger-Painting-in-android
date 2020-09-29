@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fingerpaint</string>
+    <string name="clear_content">Clear Content</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+</resources>
